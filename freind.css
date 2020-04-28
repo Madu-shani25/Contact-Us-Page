@@ -1,0 +1,57 @@
+.body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+
+.contact{
+ margin-top: 100px;
+ padding: 0;
+ text-align: center;
+ color: cornsilk;
+ transition: all 4s ease-in-out;
+}
+
+.contact h1{
+    font-size: 32px;
+    line-height: 10px;
+}
+
+.contact h2{
+font-size: 20px;
+}
+
+.form{
+   margin-top: 60px;
+   transition: all 4s ease-in-out;
+}
+
+.control-panel{
+    width: 500px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid burlywood;
+    margin-bottom: 20px;
+    font-size: 14px;
+    color:white; 
+}
+
+.submit{
+    background: maroon;
+    border-color: oldlace;
+    font-size:  18px;
+    font-weight: bold;
+    color:white;
+    margin-top: 24px;
+    letter-spacing: 2px;
+    line-break: auto;
+    
+}
+ .form submit:hover{
+     background-color: rgb(231, 146, 18);
+     cursor: pointer;
+
+
+ }
